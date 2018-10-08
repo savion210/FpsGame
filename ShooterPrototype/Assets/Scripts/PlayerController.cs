@@ -19,7 +19,6 @@ public class PlayerController : NetworkBehaviour {
 	private int jumps;
 
 
-
 	public GameObject CrossHairCanvas; 
 
 
